@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2021 RomFR57 rom.fr57@gmail.com
+Copyright (c) 2021 RomFR57 email_address_2
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
